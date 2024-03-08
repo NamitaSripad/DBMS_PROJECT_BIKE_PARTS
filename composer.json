@@ -1,0 +1,12 @@
+{
+    "name": "NamitaSripad/DBMS_PROJECT_BIKE_PARTS",
+    "description": "auto parts management",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "YourNamespace\\": "src/"
+        }
+    }
+}
